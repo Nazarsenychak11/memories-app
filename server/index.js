@@ -21,4 +21,4 @@ mongoose.connect(CONNECTION_URL)
     .catch((error) => console.log(error.message))
 
     
-// mongoose.set('useFindAndModify', false);а
+// mongoose.set('useFindAndModify', false);
