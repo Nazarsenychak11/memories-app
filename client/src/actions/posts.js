@@ -1,4 +1,4 @@
-import {CREATE, UPDATE, FETCH_ALL, DELETE, LIKE} from '../constans/actionTypes'
+import {CREATE, UPDATE, FETCH_ALL, DELETE, LIKE} from '../constants/actionTypes'
 import * as api from '../api'
 
 // actions creator
